@@ -1,0 +1,70 @@
+                                   #,##,##0.###�#E0�	#,	%�¤ %L00�INR�	
+                                                                                      	  	                   ^
+Student.java:22: error: unmappable character (0x82) for encoding UTF-8
+AUDA$
+     DBRLR$�
+                  ^
+Student.java:25: error: unmappable character (0xAA) for encoding UTF-8
+CNYCN¥
+UR€4GBP£HKDHK	ILS&�IN3��NJPYJP
+                                     	        ^
+Student.java:25: error: unmappable character (0xB9) for encoding UTF-8
+CNYCN¥
+UR€4GBP£HKDHK	ILS&�IN3��NJPYJP
+                                     	                 ^
+Student.java:25: error: unmappable character (0x82) for encoding UTF-8
+CNYCN¥
+UR€4GBP£HKDHK	ILS&�IN3��NJPYJP
+                                     	                  ^
+100 errors
+only showing the first 100 errors, of 34529 total; use -Xmaxerrs if you would like to see more
+vikaspal@Vikass-MacBook-Air Java % clear
+
+vikaspal@Vikass-MacBook-Air Java % vim hello.java
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+class hello {
+
+        public static void main(String[] args)
+        {
+
+                System.out.println("Hello Vikas Pal");
+        }
+
+{
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+-- INSERT -- 
